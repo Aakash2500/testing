@@ -18,5 +18,12 @@ public class Demo {
 	public void m3()
 	{
 		System.out.println("Welcome........");
+		
+	}
+	
+	public void m4()
+	{
+		System.out.println("Welcome........");
+		
 	}
 }
