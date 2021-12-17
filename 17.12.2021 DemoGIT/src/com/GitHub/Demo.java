@@ -11,11 +11,7 @@ public class Demo {
 	}
 	
 	
-	public void m2()
-	{
-		System.out.println("AKash kadam");
-		System.out.println("Hiii");
-	}
+	
 	
 	public void m3()
 	{
