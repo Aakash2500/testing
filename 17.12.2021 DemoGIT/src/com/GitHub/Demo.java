@@ -17,5 +17,9 @@ public class Demo {
 		System.out.println("Hiii");
 	}
 	
-	
+	public void m3()
+	{
+		System.out.println("welocomeee");
+		System.out.println("Thank You");
+	}
 }
