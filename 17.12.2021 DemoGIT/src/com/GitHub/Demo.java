@@ -17,15 +17,5 @@ public class Demo {
 		System.out.println("Hiii");
 	}
 	
-	public void m3()
-	{
-		System.out.println("Welcome........");
-		
-	}
 	
-	public void m4()
-	{
-		System.out.println("Welcome........");
-		
-	}
 }
